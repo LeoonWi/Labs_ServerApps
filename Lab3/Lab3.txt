@@ -1,0 +1,44 @@
+Lab3 ReentrantLock results:
+System info:
+OS name: Windows 11
+Cpu: 12
+Free memory: 533347176
+Total memory: 536870912
+
+Threads: increment 1, decrement 1
+Final counter value: 0
+Execution time: 3522200 seconds
+
+Lab3 ReentrantLock results:
+System info:
+OS name: Windows 11
+Cpu: 12
+Free memory: 531669920
+Total memory: 536870912
+
+Threads: increment 2, decrement 2
+Final counter value: 0
+Execution time: 835500 seconds
+
+Lab3 ReentrantLock results:
+System info:
+OS name: Windows 11
+Cpu: 12
+Free memory: 528482304
+Total memory: 536870912
+
+Threads: increment 4, decrement 4
+Final counter value: 0
+Execution time: 1578000 seconds
+
+Lab3 ReentrantLock results:
+System info:
+OS name: Windows 11
+Cpu: 12
+Free memory: 523281312
+Total memory: 536870912
+
+Threads: increment 8, decrement 8
+Final counter value: 0
+Execution time: 1328400 seconds
+
